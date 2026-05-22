@@ -1,4 +1,4 @@
-# [Your name]
+# [Paul Mirzayantz]
 
 > *The how and the why are the interesting parts. The fix is just the conclusion.*
 
@@ -54,5 +54,5 @@ Nmap · OWASP ZAP · SQLite · Raspberry Pi · Linux
 
 ## Contact
 
-- 💼 [LinkedIn](#)
-- 📧 [Email](#)
+- 💼 [https://www.linkedin.com/in/paul-mirzayantz-73355833b/](#)
+- 📧 [paulmirzayantz@protonmail.com]
