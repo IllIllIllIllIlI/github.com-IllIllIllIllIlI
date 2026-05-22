@@ -1,4 +1,4 @@
-# [Paul Mirzayantz]
+# Paul Mirzayantz
 
 > *The how and the why are the interesting parts. The fix is just the conclusion.*
 
