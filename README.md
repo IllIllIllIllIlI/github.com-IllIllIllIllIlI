@@ -55,4 +55,4 @@ Nmap · OWASP ZAP · SQLite · Raspberry Pi · Linux
 ## Contact
 
 - 💼 [https://www.linkedin.com/in/paul-mirzayantz-73355833b/](#)
-- 📧 [paulmirzayantz@protonmail.com]
+- 📧 [paulmirzayantz@protonmail.com](#)
